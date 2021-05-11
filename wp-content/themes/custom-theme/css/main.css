@@ -1,0 +1,11 @@
+body {
+    background-color: lightblue;
+}
+
+article {
+    margin-bottom: 1rem;
+}
+
+.categories li, .tags li {
+    display: inline-block;
+}
